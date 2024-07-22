@@ -1,177 +1,161 @@
-CRPC8: Mitron Bank: Analysis for New Credit Card Launch
-Created by- Saddam Ansari @Aspiring Data Analyst Linkeldin Profile
-Live Dashboard at Novypro Live_link_Novypro
-Linkeldin post for this project with presentation video Link
-Presentation ppt at Canva Link
-Table of Content
-About Mitron Bank
-Objective of the Project
-Problem Statment
-Demographic Classification
-Income Utilization & Spending Analysis
-Table Grid View Page
-Recomendation
-Footer
-About Mitron Bank
-🔁Home
+```markdown
+# CRPC8: Mitron Bank: Analysis for New Credit Card Launch
 
-Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market.
+**Created by:** Saddam Ansari, Aspiring Data Analyst  
+**LinkedIn Profile:** [LinkedIn](Live_LinkedIn)  
+**Live Dashboard at Novypro:** [Novypro](Live_link_Novypro)  
+**LinkedIn post for this project with presentation video:** [Link](LinkedIn_post_Link)  
+**Presentation ppt at Canva:** [Link](Canva_Link)
 
-Objective of the Project
-🔁Home
+---
 
-The objective is to analyze this data and provide actionable, data-driven recommendations to guide Mitron Bank in tailoring the new credit cards to customer needs and market trends.
+## Table of Content
 
-Problem Statment
-🔁Home
+1. [About Mitron Bank](#about-mitron-bank)
+2. [Objective of the Project](#objective-of-the-project)
+3. [Problem Statement](#problem-statement)
+4. [Demographic Classification](#demographic-classification)
+5. [Income Utilization & Spending Analysis](#income-utilization-and-spending-analysis)
+6. [Table Grid View](#table-grid-view)
+7. [Recommendations](#recommendations)
+8. [Footer](#footer)
 
-Demographic classification: Classify the customers based on available demography such as age group, gender, occupation etc. and provide insights based on them.
+---
 
-Avg income utilisation %: Find the average income utilisation % of customers (avg_spends/avg_income). This will be your key metric. The higher the average income utilisation %, the more is their likelihood to use credit cards.
+## About Mitron Bank [🔁Home](#table-of-content)
 
-Spending Insights: Where do people spend money the most? Does it have any impact due to occupation, gender, city, age etc.? This can help you to add relevant credit card features for specific target groups.
+Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden their product offerings and reach in the financial market.
 
-Key Customer Segments: By doing above, you should be able to identify and profile key customer segments that are likely to be the highest-value users of the new credit cards. This includes understanding their demographics, spending behaviours, and financial preferences.
+## Objective of the Project [🔁Home](#table-of-content)
 
-Credit Card Feature Recommendations: Provide recommendations on what key features should be included in the credit card which will improve the likelihood of credit card usage. This should be backed by the insights from data provided and also some secondary research on the internet for this.
+The objective is to analyze the data and provide actionable, data-driven recommendations to guide Mitron Bank in tailoring the new credit cards to customer needs and market trends.
 
-Demographic Classification:
-🔁Home
+## Problem Statement [🔁Home](#table-of-content)
 
-For demographic classification, I have conducted a thorough customer demographic analysis using Power BI, and here are the key findings presented in a visually engaging manner:
+### Demographic Classification:
+Classify the customers based on available demographics such as age group, gender, occupation, etc., and provide insights based on them.
 
-Page 1
+### Average Income Utilization %:
+Find the average income utilization % of customers (avg_spends/avg_income). This will be your key metric. The higher the average income utilization %, the more likely they are to use credit cards.
 
-Total Customers:
-1
+### Spending Insights:
+Where do people spend money the most? Does it have any impact due to occupation, gender, city, age, etc.? This can help you add relevant credit card features for specific target groups.
 
+### Key Customer Segments:
+Identify and profile key customer segments likely to be the highest-value users of the new credit cards. This includes understanding their demographics, spending behaviors, and financial preferences.
+
+### Credit Card Feature Recommendations:
+Provide recommendations on key features to include in the credit card to improve the likelihood of credit card usage. This should be backed by data insights and secondary research.
+
+## Demographic Classification [🔁Home](#table-of-content)
+
+For demographic classification, I conducted a thorough customer demographic analysis using Power BI. Key findings are presented visually:
+
+### Total Customers:
 The dataset encompasses a substantial pool of 4000 customers, forming the foundation of our analysis.
 
-Gender Dynamics:
-2 2a
+### Gender Dynamics:
+- **Males:** 64.93%
+- **Females:** 35.08%
 
-The majority of our customer base comprises males, accounting for 64.93%, indicating a slightly male-dominated demographic.
-However, the substantial presence of females (35.08%) highlights a diverse customer landscape.
-Age Group Profiling:
-3
+### Age Group Profiling:
+- **25-35 years:** 1498 customers
+- **35-45 years:** 1273 customers
+- **45+ years:** Smaller but noteworthy segment
 
-The age group 25-35 emerges as the most significant segment, with 1498 customers. This group, especially males, exhibits a strong presence.
-Customers aged 35-45 also form a substantial portion (1273), demonstrating a balanced distribution between genders.
-The 45+ age group, while smaller, remains a noteworthy segment that shouldn't be overlooked.
-City-wise Distribution:
-4
+### City-wise Distribution:
+- **Mumbai:** 1078 customers
+- Other major cities: Chennai, Bangalore, Delhi NCR
 
-Mumbai takes the lead in terms of customer concentration, with 1078 customers, predominantly males.
-Other major cities like Chennai, Bangalore, and Delhi NCR also contribute significantly to our customer base.
-Occupational Insight:
-5
+### Occupational Insight:
+- **Salaried IT Employees:** 1294 customers
+- Diverse occupations including freelancers and business owners
 
-Salaried IT Employees represent a large portion of our customers (1294), showcasing a tech-centric demographic.
-The diversity in occupations, including freelancers and business owners, presents an opportunity to tailor services for varied professional needs.
-Marital Status Overview:
-6
+### Marital Status Overview:
+- **Married:** 78.41%
+- **Unmarried:** 21.6%
 
-A significant majority of our customers are married (78.41%), emphasizing the importance of considering family-centric financial solutions.
-Unmarried customers, though a smaller segment, still constitute a substantial 21.6% of our customer base.
-Income Utilization & Spending Analysis
-🔁Home
+## Income Utilization & Spending Analysis [🔁Home](#table-of-content)
 
-In pursuit of illuminating critical insights into customer spending patterns and understanding the average income utilization across diverse segments, a dedicated analytical exploration has been undertaken. To facilitate a comprehensive understanding, a bespoke "Customers Spend Analysis" page has been meticulously crafted within Power BI. This page serves as the epicenter for unraveling intricate details, housing a plethora of Key Performance Indicators (KPIs) and insightful charts and graphs.
+A dedicated "Customers Spend Analysis" page in Power BI unravels critical insights into customer spending patterns and average income utilization.
 
-Screenshot 2024-01-01 174050
+### Average Income Utilization:
+- **Average:** 42.82%
 
-Average Income Utilization:
-a1
+### Key Metrics:
+- **Total Income in 6 months:** $1240M
+- **Total Spends in 6 months:** $531M
 
-Average Income Utilization stands at 42.82%
-Key Metrics:
-a2
+### Income, Spend, Utilization by Age Group:
+- **25-34 years:** Highest utilization (43.66%)
+- **35-45 years:** 46.52%
 
-Total Income in 6 months: $1240M
-Total Spends in 6 months: $531M
-Income, Spend, Utilization by Age Group:
-a3
+### Total Spends by Category:
+- **Bills:** $105M, utilization 46%
+- Other categories: Grocery, Electronics, Others
 
-Age group 25-34 exhibits the highest income, spend, and utilization (43.66%).
-Second-highest is the 35-45 age group with a utilization rate of 46.52%.
-Total Spends by Category:
-a4
+### Income, Spend, Utilization by Occupation:
+- **Salaried IT Employees:** Highest utilization (51.04%)
+- **Business Owners:** Utilization rate (33.22%)
+- **Government Employees:** Lowest utilization (29%)
 
-Highest spending in bills category ($105M) with an average utilization of 46%.
-Other significant categories: Grocery ($86M), Electronics ($80M), and the least in Others category ($16M).
-Income, Spend, Utilization by Occupation:
-a5
+### Income, Spend, Utilization by City:
+- **Mumbai:** Highest utilization (51.43%)
 
-Salaried IT employees lead in income ($477M), spend ($244M), and utilization (51.04%).
-Business Owners show an income of $265M, spend of $88M, and a utilization rate of 33.22%.
-Government employees have the lowest utilization at 29%.
-Income, Spend, Income Utilization by City:
-a6
+### Total Spend by Payment Type:
+- **Credit cards:** $216M, utilization rate (17.45%)
 
-Mumbai outshines with the highest income and spend, resulting in a utilization rate of 51.43%.
-Chennai, Delhi NCR, Bengaluru, and Hyderabad follow with varying utilization rates.
-Total Spend by Payment Type:
-a7
+### Total Spend by Gender:
+- **Males:** $357M
+- **Females:** $154M
 
-Credit cards dominate spending, accounting for $216M with a utilization rate of 17.45%.
-Other payment types include UPI, debit cards, and net banking.
-Total Spend by Gender:
-a8
+### Spend by Marital Status:
+- **Married:** $429M
+- **Unmarried:** $102M
 
-Males lead in spending with $357M, while females contribute $154M.
-Spend by Marital Status:
-a9
+### Total Spend by Month:
+- **September:** $116M (21.84%)
 
-Married individuals top the spending charts with $429M, surpassing unmarried individuals at $102M.
+### Income Utilization by Gender:
+- **Males:** 44.39%
+- **Females:** 39.92%
 
-Total Spend by Month:
-a10
+### Income Utilization by Marital Status:
+- **Singles:** 43.06%
+- **Married:** 42.77%
 
-September emerges as the highest spending month, accounting for $116M, constituting 21.84% of the total spend.
+## Table Grid View [🔁Home](#table-of-content)
 
-Income Utilization by Gender:
-a11
+A third page is dedicated to a detailed Table Grid View, offering a granular examination of all customer data. This tabular format facilitates nuanced and personalized analyses.
 
-Males exhibit a higher income utilization rate at 44.39%, compared to females at 39.92%.
+## Recommendations for Next Credit Card [🔁Home](#table-of-content)
 
-Income Utilization by Marital Status:
-a12
+To improve the likelihood of credit card usage among identified target customers:
 
-Singles show a utilization rate of 43.06%, slightly surpassing married individuals at 42.77%.
+### Tailored Rewards Program:
+Create rewards programs aligned with spending patterns of salaried employees, self-employed individuals, and freelancers.
 
-Table Grid View Page:
-🔁Home
+### Flexible Payment Options:
+Offer flexible payment plans to accommodate different income structures.
 
-3 page
+### Expense Tracking and Budgeting Tools:
+Provide built-in tools or partner with budgeting apps for tracking expenses.
 
-In addition to these insights, a third page has been dedicated to a detailed Table Grid View, offering a granular examination of all customer data. This tabular format enables an in-depth exploration of individual customer details, facilitating more nuanced and personalized analyses.
+### Low Annual Fees and Interest Rates:
+Keep annual fees competitive and offer reasonable interest rates.
 
-Recomendation for Next Credit Card
-🔁Home
+### Contactless and Mobile Payments:
+Ensure the credit card supports contactless and mobile payments.
 
-To improve the likelihood of credit card usage among the identified target customers (salaried employees, self-employed individuals, and freelancers), consider incorporating the following key features in the credit card:
+### Security Features:
+Implement advanced security features such as fraud alerts and biometric authentication.
 
-Tailored Rewards Program:
-Create a rewards program that aligns with the spending patterns of salaried employees, self-employed individuals, and freelancers. This could include cash back on common categories of spending such as groceries, dining, and business-related expenses.
+---
 
-Flexible Payment Options:
-Offer flexible payment plans to accommodate different income structures. This could include customizable monthly payment options, allowing users to adjust their payment schedule based on their cash flow.
+## Footer [🔁Home](#table-of-content)
 
-Expense Tracking and Budgeting Tools:
-Provide built-in tools or partner with budgeting apps to help users track their expenses, categorize spending, and set budget goals. This can be particularly beneficial for freelancers and self-employed individuals managing variable income.
+Don't forget to give a star to this project, as it motivates me. Please follow me on LinkedIn and consider me for any internship or entry-level data analyst role. I am looking for opportunities, whether paid or unpaid.
 
-Low Annual Fees and Interest Rates:
-Keep annual fees competitive and offer reasonable interest rates to attract and retain customers. Consider providing introductory offers, lower rates for loyal customers, or special promotions for specific spending categories.
-
-Contactless and Mobile Payments:
-Ensure the credit card supports contactless payments and integrates with popular mobile payment platforms. This adds convenience for users who prefer digital and contactless transactions.
-
-Security Features:
-Implement advanced security features such as fraud alerts, biometric authentication, and virtual card numbers to enhance the safety of transactions. Communicate these security measures to build trust among users.
-
-🔁Home
-
-Don't forget to give a start to this project because its motivate me and also please follow me on Linkeldin. and Please consider me for any internship or entry level data analyst role. I need a job or internship even thought its a free or paid. Thanks in Advance.
-Created & Presented by -Saddam Ansari @ Aspiring Data Analyst
-
-Date- 03/01/2024
+**Created & Presented by:** Saddam Ansari, Aspiring Data Analyst  
+**Date:** 03/01/2024
+```
