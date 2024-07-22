@@ -1,11 +1,9 @@
 # CRPC8: Mitron Bank: Analysis for New Credit Card Launch
 
-**Created by:** Saddam Ansari, Aspiring Data Analyst  
-**LinkedIn Profile:** [LinkedIn](Live_LinkedIn)  
-**Live Dashboard at Novypro:** [Novypro](Live_link_Novypro)  
+**Created by:** Sahil Shah, Aspiring Data Analyst  
+**LinkedIn Profile:** [Saddam Ansari](https://www.linkedin.com/in/sahil-shah-sahil-shah/) 
+**Live Dashboard at Novypro:** [Novypro]([Live_link_Novypro](https://project.novypro.com/A4PxRh))  
 **LinkedIn post for this project with presentation video:** [Link](LinkedIn_post_Link)  
-**Presentation ppt at Canva:** [Link](Canva_Link)
-
 ---
 
 ## Table of Content
@@ -33,6 +31,7 @@ The objective is to analyze the data and provide actionable, data-driven recomme
 
 ### Demographic Classification:
 Classify the customers based on available demographics such as age group, gender, occupation, etc., and provide insights based on them.
+
 
 ### Average Income Utilization %:
 Find the average income utilization % of customers (avg_spends/avg_income). This will be your key metric. The higher the average income utilization %, the more likely they are to use credit cards.
