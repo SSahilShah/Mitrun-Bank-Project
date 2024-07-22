@@ -1,27 +1,3 @@
-For the "Home" link in your PowerPoint presentation, you can create an internal navigation link that allows users to jump back to the Table of Content slide. Here's how you can set it up:
-
-### Steps to Create a Home Link in PowerPoint
-
-1. **Create the Table of Content Slide:**
-    - This slide should have links to different sections of your presentation.
-
-2. **Add Home Buttons to Each Slide:**
-    - Go to each slide where you want to add a Home link.
-    - Insert a shape or an icon (e.g., a house icon) that will serve as your Home button.
-
-3. **Hyperlink the Home Button:**
-    - Right-click on the shape or icon.
-    - Select "Hyperlink."
-    - In the dialog box, choose "Place in This Document."
-    - Select the slide number of your Table of Content.
-    - Click "OK."
-
-4. **Format the Home Button (Optional):**
-    - You can format the shape or icon to match your presentation's design.
-
-### Example PowerPoint ReadMe Content with Home Links
-
-```markdown
 # CRPC8: Mitron Bank: Analysis for New Credit Card Launch
 
 **Created by:** Saddam Ansari, Aspiring Data Analyst  
@@ -38,7 +14,7 @@ For the "Home" link in your PowerPoint presentation, you can create an internal 
 2. [Objective of the Project](#objective-of-the-project)
 3. [Problem Statement](#problem-statement)
 4. [Demographic Classification](#demographic-classification)
-5. [Income Utilization & Spending Analysis](#income-utilization-and-spending-analysis)
+5. [Income Utilization & Spending Analysis](#income-utilization--spending-analysis)
 6. [Table Grid View](#table-grid-view)
 7. [Recommendations](#recommendations)
 8. [Footer](#footer)
