@@ -2,7 +2,8 @@
 
 **Created by:** Sahil Shah, Aspiring Data Analyst  
 **LinkedIn Profile:** [Sahil Shah](https://www.linkedin.com/in/sahil-shah-sahil-shah/) 
-**Live Dashboard at Novypro:** [Novypro Live Link](https://www.novypro.com/profile_projects/sahil-shah?Popup=memberProject&Data=1721631959566x162981966421790850))  
+
+**Live Dashboard at Novypro:** [Novypro Live Link](https://www.novypro.com/profile_projects/sahil-shah?Popup=memberProject&Data=1721631959566x162981966421790850) 
 **LinkedIn post for this project with presentation video:**[(LinkedIn_post_Link)](https://www.linkedin.com/posts/sahil-shah-sahil-shah_hi-activity-7221980160978214912-NRAS?utm_source=share&utm_medium=member_desktop)  
 ---
 
