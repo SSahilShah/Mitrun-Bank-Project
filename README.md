@@ -182,7 +182,7 @@ Implement advanced security features such as fraud alerts and biometric authenti
 
 ## Footer [🔁Home](#table-of-content)
 
-Don't forget to give a star to this project, as it motivates me. Please follow me on LinkedIn and consider me for any internship or entry-level data analyst role. I am looking for opportunities, whether paid or unpaid.
+Don't forget to give a star to this project, as it motivates me. Please follow me on LinkedIn and consider me for any entry-level data analyst role. I am looking for opportunities.
 
 **Created & Presented by:** sahil shah , Aspiring Data Anlayst 
 **Date:** 03/01/2024
