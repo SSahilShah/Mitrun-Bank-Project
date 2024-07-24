@@ -1,7 +1,7 @@
 # CRPC8: Mitron Bank: Analysis for New Credit Card Launch
 
 **Created by:** Sahil Shah, Aspiring Data Analyst  
-**LinkedIn Profile:** [Saddam Ansari](https://www.linkedin.com/in/sahil-shah-sahil-shah/) 
+**LinkedIn Profile:** [Sahil Shah](https://www.linkedin.com/in/sahil-shah-sahil-shah/) 
 **Live Dashboard at Novypro:** [Novypro]([Live_link_Novypro](https://project.novypro.com/A4PxRh))  
 **LinkedIn post for this project with presentation video:** [Link](LinkedIn_post_Link)  
 ---
@@ -184,5 +184,5 @@ Implement advanced security features such as fraud alerts and biometric authenti
 
 Don't forget to give a star to this project, as it motivates me. Please follow me on LinkedIn and consider me for any internship or entry-level data analyst role. I am looking for opportunities, whether paid or unpaid.
 
-**Created & Presented by:** Saddam Ansari, Aspiring Data Analyst  
+**Created & Presented by:** sahil shah , Aspiring Data Anlayst 
 **Date:** 03/01/2024
